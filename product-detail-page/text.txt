@@ -1,0 +1,16 @@
+npm create vite@latest . -- --template react
+
+npm install
+
+npm install lucide-react
+
+npm install tailwindcss @tailwindcss/vite
+
+npm run dev
+
+index.css
+
+app.tsx
+
+npm config get registry
+npm install lucide-react --verbose
