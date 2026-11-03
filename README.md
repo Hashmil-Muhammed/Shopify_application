@@ -9,7 +9,6 @@
 </h1>
 
 <h3 align="center"><em>High-Performance, Responsive E-Commerce Product Experience</em></h3>
-
 <p align="center">
   <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite_8-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
