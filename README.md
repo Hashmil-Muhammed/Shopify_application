@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2563eb,1d4ed8,38bdf8&height=180&section=header&text=Product%20Detail%20Page&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=E-Commerce%20Frontend%20Engineering%20Assessment&descAlignY=62&descSize=16" alt="Product Detail Page Banner" />
 </p>
 <h1 align="center">
-  <img src="./public/icons.svg" alt="PDP Logo" width="100" />
   Product Detail Page (PDP)
 </h1>
 
