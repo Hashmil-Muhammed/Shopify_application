@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">
   <img src="./public/icons.svg" alt="PDP Logo" width="100" />
-  <br>
   Product Detail Page (PDP)
 </h1>
 
