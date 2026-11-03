@@ -5,8 +5,6 @@
   <img src="./public/icons.svg" alt="PDP Logo" width="100" />
   <br>
   Product Detail Page (PDP)
-  <br>
-  <br>
   <img src="https://img.shields.io/badge/Shopify-Frontend%20Assessment-2563EB?style=for-the-badge&logo=shopify&logoColor=white" alt="PDP Badge" />
 </h1>
 
