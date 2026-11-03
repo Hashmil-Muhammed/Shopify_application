@@ -4,6 +4,7 @@
 <h1 align="center">
   Product Detail Page (PDP)
 </h1>
+<img width="731" height="889" alt="image" src="https://github.com/user-attachments/assets/ea26cca6-ae75-4ddd-a9e3-bac22aafac93" />
 
 <h3 align="center"><em>High-Performance, Responsive E-Commerce Product Experience</em></h3>
 <p align="center">
