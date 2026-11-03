@@ -4,7 +4,6 @@
 <h1 align="center">
   Product Detail Page (PDP)
 </h1>
-<img width="731" height="889" alt="image" src="https://github.com/user-attachments/assets/ea26cca6-ae75-4ddd-a9e3-bac22aafac93" />
 
 <h3 align="center"><em>High-Performance, Responsive E-Commerce Product Experience</em></h3>
 <p align="center">
@@ -23,6 +22,7 @@
 <p align="center">
   <strong>Product Detail Page (PDP)</strong> is an enterprise-grade, high-fidelity e-commerce product interface engineered with <strong>React 19</strong>, <strong>TypeScript</strong>, <strong>Vite</strong>, and <strong>Tailwind CSS 4</strong>. It integrates live dynamic REST API data, featuring a synchronized multi-variant matrix (Color & Size), interactive multi-angle image gallery with touch/swipe controls, live inventory states, real-time desktop/mobile layout toggle, and defensive error boundaries.
 </p>
+<img width="731" height="889" alt="image" src="https://github.com/user-attachments/assets/ea26cca6-ae75-4ddd-a9e3-bac22aafac93" />
 
 <hr />
 
